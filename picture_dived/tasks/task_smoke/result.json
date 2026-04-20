@@ -1,0 +1,46 @@
+{
+  "task_id": "task_smoke",
+  "scene_type": "desk_setup",
+  "objects": [
+    {
+      "object_id": "obj_001",
+      "label": "book",
+      "crop_url": "file:///Users/jan/Desktop/picture_dived/tasks/task_smoke/crops/obj_001.png"
+    },
+    {
+      "object_id": "obj_002",
+      "label": "keyboard",
+      "crop_url": "file:///Users/jan/Desktop/picture_dived/tasks/task_smoke/crops/obj_002.png"
+    },
+    {
+      "object_id": "obj_003",
+      "label": "laptop",
+      "crop_url": "file:///Users/jan/Desktop/picture_dived/tasks/task_smoke/crops/obj_003.png"
+    },
+    {
+      "object_id": "obj_004",
+      "label": "monitor",
+      "crop_url": "file:///Users/jan/Desktop/picture_dived/tasks/task_smoke/crops/obj_004.png"
+    },
+    {
+      "object_id": "obj_005",
+      "label": "pen",
+      "crop_url": "file:///Users/jan/Desktop/picture_dived/tasks/task_smoke/crops/obj_005.png"
+    },
+    {
+      "object_id": "obj_006",
+      "label": "potted_plant",
+      "crop_url": "file:///Users/jan/Desktop/picture_dived/tasks/task_smoke/crops/obj_006.png"
+    },
+    {
+      "object_id": "obj_007",
+      "label": "tablet",
+      "crop_url": "file:///Users/jan/Desktop/picture_dived/tasks/task_smoke/crops/obj_007.png"
+    },
+    {
+      "object_id": "obj_008",
+      "label": "watch",
+      "crop_url": "file:///Users/jan/Desktop/picture_dived/tasks/task_smoke/crops/obj_008.png"
+    }
+  ]
+}
